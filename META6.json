@@ -9,6 +9,7 @@
   "license" : "Artistic-2.0",
   "name" : "Nothing",
   "perl" : "6.c",
+  "api" : "0",
   "provides" : {
   },
   "resources" : [ ],
